@@ -9,5 +9,3 @@ Instructors: [Dr. -Ing. Mehdi Maboudi](https://www.tu-braunschweig.de/en/igp/sta
 |First Name, Last Name| email|
 |---|---|
 |Arjun, Arora|a.arora@tu-braunschweig.de|
-|Hamdi Burak, Usul|h.usul@tu-braunschweig.de|
-
